@@ -1,7 +1,16 @@
 {
   "questions": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, 
+     "title": "To the best of your knowledge do you have or have you ever had any of the following ?", 
+     "answers": ["Diebetis or raised blood sugar", "Heart disease", "Stroke", "Cancer", "Liver of kidney  disease", "Disorder to the nervouse system"]
+    },
+    { "id": 2, 
+     "title": "In the last 5 years f your knowledge do you have or have you ever had any of the following ?", 
+     "answers": ["Diebetis or raised blood sugar", "Heart disease", "Stroke", "Cancer", "Liver of kidney  disease", "Disorder to the nervouse system"]
+    },
+    { "id": 3, 
+     "title": "To the best of your knowledge do you have or have you ever had any of the following ?", 
+     "answers": ["Diebetis or raised blood sugar", "Heart disease", "Stroke", "Cancer", "Liver of kidney  disease", "Disorder to the nervouse system"]
+    }
   ]
 }
