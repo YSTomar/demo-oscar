@@ -5,8 +5,11 @@
      "answers": ["Diebetis or raised blood sugar", "Heart disease", "Stroke", "Cancer", "Liver of kidney  disease", "Disorder to the nervouse system"]
     },
     { "id": 2, 
-     "title": "In the last 5 years f your knowledge do you have or have you ever had any of the following ?", 
-     "answers": ["Diebetis or raised blood sugar", "Heart disease", "Stroke", "Cancer", "Liver of kidney  disease", "Disorder to the nervouse system"]
+     "title": "In the last 5 years, other than medical condition or illness listed here, have you undergone or been advised to have any form of medical investigation, test, or consultation with a doctor", 
+     "answers": ["Controlled:Blood pressure, cholestrol, gout or thyroid harmone disorder", 
+                 "Accident that you recovered from", 
+                 "Muskoskeleton problem e.g broken pipes, muscles or ligament damage", 
+                 "Gastric problem not requiring follow up prescription to treat drugs ", "Liver of kidney  disease", "Disorder to the nervouse system"]
     },
     { "id": 3, 
      "title": "To the best of your knowledge do you have or have you ever had any of the following ?", 
